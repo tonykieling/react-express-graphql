@@ -30,3 +30,5 @@ cd react-express-graphql
 yarn 
 yarn start
 ```
+
+starting..
